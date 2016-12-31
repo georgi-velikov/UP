@@ -18,7 +18,6 @@ void task1()
         counter++;
     }
     if(counter >=30 && counter <= 50)
-        //Разбирам условието, че трябва да са от 30 до 50 символа, а примера е с по-малко. Предполагам, че не пречи.
     {
     cout << "There are " << counter << " characters."<< endl;
     cout << "First character is " << str[0]<< endl;
